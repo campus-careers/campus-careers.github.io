@@ -1,4 +1,4 @@
-# Bowfolios
+# campus-careers
 
 ## Table of contents
 
