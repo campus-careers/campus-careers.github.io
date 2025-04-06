@@ -3,10 +3,6 @@ title: Campus Careers
 layout: default
 ---
 
-# Campus Careers
-
-Welcome to **Campus Careers**!
-
 ## Overview
 
 Many UH Computer Science and Engineering students want to learn about internship and job opportunities, but currently, they must wait until a company reaches out with a visit or announcement. There is no centralized way for students to explore the landscape of opportunities and prepare in advance.
