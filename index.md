@@ -1,4 +1,4 @@
-# campus-careers
+# Campus Careers
 
 ## Table of contents
 
