@@ -45,13 +45,13 @@ Here are some early mockup pages (subject to change as development progresses):
 ![Landing Page](images/landingpage.png)
 
 ### Student Home Page
-![Student Page](images/studentpagemockup.png)
+![Student Page](images/Studentpagemockup.png)
 
 ### Company and Admin Home Pages
-![Company and Admin Pages](images/companyandadminmockup.png)
+![Company and Admin Pages](images/Companyandadminmockup.png)
 
 ### Browse by Skill or Location
-![Browse by Skill](images/browsebyskill.png)
+![Browse by Skill](images/Browsebyskill.png)
 
 > _Note: All UI/UX mockups are in early development and will continue to evolve during the project._
 
