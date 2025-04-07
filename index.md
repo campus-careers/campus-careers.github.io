@@ -41,13 +41,19 @@ The goal of Campus Careers is to:
 
 Here are some early mockup pages (subject to change as development progresses):
 
-- Landing Page  
-- Student Home Page  
-- Company Home Page  
-- Admin Home Page  
-- Student Profile Page  
-- Company Profile Page  
-- Browse by Skill or Location  
+### Landing Page
+![Landing Page](images/landingpage.png)
+
+### Student Home Page
+![Student Page](images/studentpagemockup.png)
+
+### Company and Admin Home Pages
+![Company and Admin Pages](images/companyandadminmockup.png)
+
+### Browse by Skill or Location
+![Browse by Skill](images/browsebyskill.png)
+
+> _Note: All UI/UX mockups are in early development and will continue to evolve during the project._
 
 ## Use Cases
 
