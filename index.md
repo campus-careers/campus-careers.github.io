@@ -80,6 +80,12 @@ Here are some early mockup pages (subject to change as development progresses):
 - Enhanced filtering and personalized recommendations.
 
 ## About
+### Team
+Mason Lee
+Alex Chang
+Phoebe Chang
+Jayden Hyunh
+Kristian Soares
 
 **Campus Careers** is the final project for ICS 314, Spring 2025. It is developed using modern web technologies including Next.js, React, Bootstrap, and Prisma.
 
