@@ -48,35 +48,35 @@ Many UH Computer Science and Engineering students want to learn about internship
   - Monitor content
   - Manage skills/geographic categories
 
-- Search and filtering for matching students and companies
+- **Search and filtering for matching students and companies**
 
 ## Mockups
 
 **Here are some early mockup pages (subject to change as development progresses):**
 
-### Landing Page
-![Landing Page](images/Landing.png)
+### 1. Landing Page
+<img src="images/Landing.png" width="400" height="300" />
 
-### Login / Sign Up Page
-![Login Page](images/Login.png)
+### 2. Login / Sign Up Page
+<img src="images/Login.png" width="400" height="300" />
 
-### Landing Page (User)
-![Landing Page (User)](images/StudentHome.png)
+### 3. Landing Page (User)
+<img src="images/StudentHome.png" width="400" height="300" />
 
-### Company Listing Page
-![Company Listing Page](images/Listing.png)
+### 4. Company Listing Page
+<img src="images/Listing.png" width="400" height="300" />
 
-### Browse Skill / Location Page
-![Browse Skill Page](images/Browse.png)
+### 5. Browse Skill / Location Page
+<img src="images/Browse.png" width="400" height="300" />
 
-### Create Company Page
-![Create Company Page](images/Company.png)
+### 6. Create Company Page
+<img src="images/Company.png" width="400" height="300" />
 
-### Administration Edit Page
-![Administration Edit Page](images/AdminEdit.png)
+### 7. Administration Edit Page
+<img src="images/AdminEdit.png" width="400" height="300" />
 
-### Administration Delete Page
-![Administration Delete Page](images/AdminDelete.png)
+### 8. Administration Delete Page
+<img src="images/AdminDelete.png" width="400" height="300" />
 
 > _Note: All UI/UX mockups are in early development and will continue to evolve during the project._
 
@@ -97,20 +97,19 @@ Many UH Computer Science and Engineering students want to learn about internship
 
 **For more information, contact:**
 
-1. **Cam Moore** - cmoore@hawaii.edu
-
-2. **Chad Morita** - chadmmm@hawaii.edu
-  
-3. **Dan Port** - dport@hawaii.edu
-
-4. **Brook Conner** - dbconner@hawaii.edu
+| **Name**        | **Email**              |
+|-----------------|------------------------|
+| Cam Moore       | cmoore@hawaii.edu      |
+| Chad Morita     | chadmmm@hawaii.edu     |
+| Dan Port        | dport@hawaii.edu       |
+| Brook Conner    | dbconner@hawaii.edu    |
 
 Information and Computer Sciences  
 University of Hawaii  
 
-## Development Section
-2. [Campus-Careers M1 Project Dashboard](https://github.com/orgs/campus-careers/projects/1/views/1)
-4. [ENTER VERCEL LINK HERE]
+## Developments
+1. [Campus-Careers M1 Project Dashboard](https://github.com/orgs/campus-careers/projects/1/views/1)
+2. [ENTER VERCEL LINK HERE]
 ---
 
 Powered by the [Morea Framework](https://morea-framework.github.io) (Theme: spacelab)
