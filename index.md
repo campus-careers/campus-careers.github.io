@@ -10,6 +10,7 @@ Many UH Computer Science and Engineering students want to learn about internship
 **Campus Careers** solves this by offering a new way for local and non-local companies to share potential opportunities with UH students. It also allows students to showcase their interests and get matched with companies looking for their skill sets.
 
 ## Team
+
 - **Mason Lee**
   
 - **Phoebe Chang**
@@ -23,7 +24,7 @@ Many UH Computer Science and Engineering students want to learn about internship
 
 ## Goals
 
-The goal of Campus Careers is to:
+**The goal of Campus Careers is to:**
 
 - Help companies promote internships and job opportunities to UH students in a more consistent, ongoing way.
 - Allow students to create professional profiles with interests and skills.
@@ -32,18 +33,18 @@ The goal of Campus Careers is to:
 
 ## Features
 
-- Company pages with:
+- **Company pages with:**
   - Company overview
   - Location
   - List of commonly recruited positions with skills, type (internship/full-time), desired hires, and salary range
   - Contact info and links
 
-- Student profiles with:
+- **Student profiles with:**
   - Skills and interests
   - Preferred location
   - Portfolio links
 
-- Admin features to:
+- **Admin features to:**
   - Monitor content
   - Manage skills/geographic categories
 
@@ -51,7 +52,7 @@ The goal of Campus Careers is to:
 
 ## Mockups
 
-Here are some early mockup pages (subject to change as development progresses):
+**Here are some early mockup pages (subject to change as development progresses):**
 
 ### Landing Page
 ![Landing Page](images/Landing.png)
@@ -94,13 +95,16 @@ Here are some early mockup pages (subject to change as development progresses):
 ## About
 **Campus Careers** is the final project for ICS 314, Spring 2025. It is developed using modern web technologies including Next.js, React, Bootstrap, and Prisma.
 
-For more information, contact:
+**For more information, contact:**
 
 Cam Moore, Chad Morita, Dan Port, Brook Conner  
 Information and Computer Sciences  
 University of Hawaii  
 Emails: cmoore@hawaii.edu, chadmmm@hawaii.edu, dport@hawaii.edu, dbconner@hawaii.edu
 
+## Development Section
+2. [Campus-Careers M1 Project Dashboard](https://github.com/orgs/campus-careers/projects/1/views/1)
+4. [ENTER VERCEL LINK HERE]
 ---
 
 Powered by the [Morea Framework](https://morea-framework.github.io) (Theme: spacelab)
