@@ -58,25 +58,25 @@ Many UH Computer Science and Engineering students want to learn about internship
 <img src="images/Landing.png" width="400" height="300" />
 
 ### 2. Login / Sign Up Page
-<img src="images/Login.png" width="400" height="300" />
+<img src="images/Login.png" width="300" height="300" />
 
 ### 3. Landing Page (User)
 <img src="images/StudentHome.png" width="400" height="300" />
 
 ### 4. Company Listing Page
-<img src="images/Listing.png" width="400" height="300" />
+<img src="images/Listing.png" width="300" height="300" />
 
 ### 5. Browse Skill / Location Page
-<img src="images/Browse.png" width="400" height="300" />
+<img src="images/Browse.png" width="300" height="300" />
 
 ### 6. Create Company Page
-<img src="images/Company.png" width="400" height="300" />
+<img src="images/Company.png" width="300" height="300" />
 
 ### 7. Administration Edit Page
-<img src="images/AdminEdit.png" width="400" height="300" />
+<img src="images/AdminEdit.png" width="300" height="300" />
 
 ### 8. Administration Delete Page
-<img src="images/AdminDelete.png" width="400" height="300" />
+<img src="images/AdminDelete.png" width="300" height="300" />
 
 > _Note: All UI/UX mockups are in early development and will continue to evolve during the project._
 
