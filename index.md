@@ -97,10 +97,16 @@ Many UH Computer Science and Engineering students want to learn about internship
 
 **For more information, contact:**
 
-Cam Moore, Chad Morita, Dan Port, Brook Conner  
+1. **Cam Moore** - cmoore@hawaii.edu
+
+2. **Chad Morita** - chadmmm@hawaii.edu
+  
+3. **Dan Port** - dport@hawaii.edu
+
+4. **Brook Conner** - dbconner@hawaii.edu
+
 Information and Computer Sciences  
 University of Hawaii  
-Emails: cmoore@hawaii.edu, chadmmm@hawaii.edu, dport@hawaii.edu, dbconner@hawaii.edu
 
 ## Development Section
 2. [Campus-Careers M1 Project Dashboard](https://github.com/orgs/campus-careers/projects/1/views/1)
