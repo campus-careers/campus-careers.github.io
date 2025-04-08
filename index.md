@@ -33,22 +33,23 @@ Many UH Computer Science and Engineering students want to learn about internship
 
 ## Features
 
-- **Company pages with:**
+- **Company Pages:**
   - Company overview
   - Location
   - List of commonly recruited positions with skills, type (internship/full-time), desired hires, and salary range
   - Contact info and links
 
-- **Student profiles with:**
+- **Student Profiles:**
   - Skills and interests
   - Preferred location
   - Portfolio links
 
-- **Admin features to:**
+- **Admin Features:**
   - Monitor content
-  - Manage skills/geographic categories
+  - Manage skills and geographic categories
 
-- **Search and filtering for matching students and companies**
+- **Search & Filter:**
+  - Students and company matching
 
 ## Mockups
 
