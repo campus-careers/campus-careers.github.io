@@ -9,6 +9,18 @@ Many UH Computer Science and Engineering students want to learn about internship
 
 **Campus Careers** solves this by offering a new way for local and non-local companies to share potential opportunities with UH students. It also allows students to showcase their interests and get matched with companies looking for their skill sets.
 
+## Team
+- **Mason Lee**
+  
+- **Phoebe Chang**
+
+- **Jayden Huynh**
+  
+- **Kristian Soares**
+
+- **Alexander Chang**
+ 
+
 ## Goals
 
 The goal of Campus Careers is to:
@@ -80,13 +92,6 @@ Here are some early mockup pages (subject to change as development progresses):
 - Enhanced filtering and personalized recommendations.
 
 ## About
-### Team
-Mason Lee
-Alex Chang
-Phoebe Chang
-Jayden Hyunh
-Kristian Soares
-
 **Campus Careers** is the final project for ICS 314, Spring 2025. It is developed using modern web technologies including Next.js, React, Bootstrap, and Prisma.
 
 For more information, contact:
