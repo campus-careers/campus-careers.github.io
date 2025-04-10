@@ -109,8 +109,9 @@ Information and Computer Sciences
 University of Hawaii  
 
 ## Developments
-1. [Campus-Careers M1 Project Dashboard](https://github.com/orgs/campus-careers/projects/1/views/1)
+1. [Campus-Careers M1 Project Board](https://github.com/orgs/campus-careers/projects/1/views/1)
 2. [Campus Careers Application (Vercel Link Here) **NOT DONE YET**](https://your-vercel-link-here)
+3. [Team Contract](https://docs.google.com/document/d/1xvUvAi_HGB6gElBEpcck0WA1tuJZAxd3U1V1imNmVtY/edit?usp=sharing)
 ---
 
 Powered by the [Morea Framework](https://morea-framework.github.io) (Theme: spacelab)
