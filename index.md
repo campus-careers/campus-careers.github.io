@@ -63,19 +63,19 @@ Many UH Computer Science and Engineering students want to learn about internship
 <img src="images/signup_final.png" />
 
 ### 3. Student Home Page
-<img src="images/student_home_final.png" width="400" height="300" />
+<img src="images/student_home_final.png" />
 
 ### 4. Company Listing Page
-<img src="images/company_list_final.png" width="300" height="300" />
+<img src="images/company_list_final.png" />
 
 ### 5. Browse Skill / Location Page
-<img src="images/filter_final.png" width="300" height="300" />
+<img src="images/filter_final.png" />
 
 ### 6. Create Company Page
-<img src="images/add_company_final.png" width="300" height="300" />
+<img src="images/add_company_final.png" />
 
 ### 7. Administration Edit Page
-<img src="images/admin_portal_final.png" width="300" height="300" />
+<img src="images/admin_portal_final.png" />
 
 ## Developer Guide: Setup
 ### CLONE THE REPOSITORY
