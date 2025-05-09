@@ -51,33 +51,31 @@ Many UH Computer Science and Engineering students want to learn about internship
 - **Search & Filter:**
   - Students and company matching
 
-## Mockups
+## User Guide
 
 **Here are some early mockup pages (subject to change as development progresses):**
 
-### 1. User Guide
-<img src="images/Landing.png" width="400" height="300" />
+### 1. Landing Page
+<img src="images/landing_page_final.png" width="400" height="300" />
 
 ### 2. Login / Sign Up Page
-<img src="images/Login.png" width="300" height="300" />
+<img src="images/signin_final.png" width="300" height="300" />
+<img src="images/signup_final.png" width="300" height="300" />
 
-### 3. Landing Page (User)
-<img src="images/StudentHome.png" width="400" height="300" />
+### 3. Student Home Page
+<img src="images/student_home_final.png" width="400" height="300" />
 
 ### 4. Company Listing Page
-<img src="images/Listing.png" width="300" height="300" />
+<img src="images/company_list_final.png" width="300" height="300" />
 
 ### 5. Browse Skill / Location Page
-<img src="images/Browse.png" width="300" height="300" />
+<img src="images/filter_final.png" width="300" height="300" />
 
 ### 6. Create Company Page
-<img src="images/Company.png" width="300" height="300" />
+<img src="images/add_company_final.png" width="300" height="300" />
 
 ### 7. Administration Edit Page
-<img src="images/AdminEdit.png" width="300" height="300" />
-
-### 8. Administration Delete Page
-<img src="images/AdminDelete.png" width="300" height="300" />
+<img src="images/admin_portal_final.png" width="300" height="300" />
 
 ## Developer Guide: Setup
 ### CLONE THE REPOSITORY
