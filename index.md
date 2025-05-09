@@ -53,8 +53,6 @@ Many UH Computer Science and Engineering students want to learn about internship
 
 ## User Guide
 
-**Here are some early mockup pages (subject to change as development progresses):**
-
 ### 1. Landing Page
 <img src="images/landing_page_final.png" />
 
