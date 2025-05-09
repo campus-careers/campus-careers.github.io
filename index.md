@@ -334,6 +334,35 @@ Represents a user of the platform, which could be a student or an admin. A user 
 
 ## Community Feedback
 
+#### Dora C.
+- Observations: Worked on mobile, easy registration process
+- Questions: Can I put dummy data in the form 
+- Quotes: "Wow, you guys made this? Looks nice but I’m not looking for a job right now"
+- Rating: 3.5/5
+
+#### Mano C.
+- Observations: can be navigated but slightly confusing wording??
+- Questions: What is this even for..?
+- Quotes: "You should put a direct contact form for students to companies"
+- Rating: 4.5/5
+
+#### Evan E.
+- Observations: Worked on mobile
+- Questions: 
+- Quotes: "The registration is a little squished on mobile"
+- Rating: 4/5
+
+#### An S.
+- Observations: easy to use and basic enough for any skill level
+- Questions: How long did it take
+- Quotes: "Very creative! Good job"
+- Rating: 5/5
+
+#### Schy V.
+- Observations: works but not the cleanest in every browser
+- Questions: How the search function should work?
+- Quotes: "The search button is cutoff on my phone, I only see 'sea'"
+- Rating: 4/5
 
 
 ## Use Cases
