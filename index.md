@@ -56,11 +56,11 @@ Many UH Computer Science and Engineering students want to learn about internship
 **Here are some early mockup pages (subject to change as development progresses):**
 
 ### 1. Landing Page
-<img src="images/landing_page_final.png" width="400" height="300" />
+<img src="images/landing_page_final.png" />
 
 ### 2. Login / Sign Up Page
-<img src="images/signin_final.png" width="300" height="300" />
-<img src="images/signup_final.png" width="300" height="300" />
+<img src="images/signin_final.png" />
+<img src="images/signup_final.png" />
 
 ### 3. Student Home Page
 <img src="images/student_home_final.png" width="400" height="300" />
