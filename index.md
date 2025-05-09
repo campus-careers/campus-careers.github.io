@@ -55,7 +55,7 @@ Many UH Computer Science and Engineering students want to learn about internship
 
 **Here are some early mockup pages (subject to change as development progresses):**
 
-### 1. Landing Page
+### 1. User Guide
 <img src="images/Landing.png" width="400" height="300" />
 
 ### 2. Login / Sign Up Page
@@ -79,7 +79,111 @@ Many UH Computer Science and Engineering students want to learn about internship
 ### 8. Administration Delete Page
 <img src="images/AdminDelete.png" width="300" height="300" />
 
-> _Note: All UI/UX mockups are in early development and will continue to evolve during the project._
+## Developer Guide
+### CLONE THE REPOSITORY
+Clone the repository to your local machine using Git.
+```
+git clone https://github.com/campus-careers/campus-careers-app.git
+cd your-repo-name
+```
+
+### INSTALL DEPENDENCIES
+
+Install Node.js and npm (if not already installed):
+- Download for Windows/macOS: https://nodejs.org/en/download
+- Ubuntu/Debian: ```sudo apt install nodejs npm```
+
+Install PostgreSQL:
+- Official download page (Windows/macOS/Linux): https://www.postgresql.org/download/
+- Homebrew (Mac): ```brew install postgresql```
+- Ubuntu/Debian: ```sudo apt install postgresql postgresql-contrib```
+
+Make sure you have Node.js (v18+) and npm installed.
+Then install the project's dependencies:
+```
+npm install
+```
+
+### SET UP THE ENVIRONMENT FILE
+
+Create and configure your local environment file:
+```
+cp sample.env .env  # Use `copy sample.env .env` on Windows
+```
+
+Update the DATABASE_URL in the `.env` file:
+```
+DATABASE_URL=postgresql://<username>:<password>@localhost:5432/your-database-name?schema=public
+```
+Tip: If you don't have a PostgreSQL user yet, you can create one using:
+```
+createuser your-username --pwprompt
+```
+Then grant it access to the database if needed.
+
+
+Copy the example environment file and edit it with your settings:
+```
+cp sample.env .env
+```
+Update the DATABASE_URL in the `.env` file:
+```
+DATABASE_URL=postgresql://<username>:<password>@localhost:5432/your-database-name?schema=public
+```
+
+
+### DATABASE SETUP (PostgreSQL + Prisma)
+
+Make sure PostgreSQL is running locally before running these commands.
+If you're using Windows and don't have CLI tools like `createdb`, consider using pgAdmin or DBeaver.
+
+
+#### 1. Create the database:
+```
+createdb your-database-name
+```
+#### 2. Run migrations to set up tables:
+```
+npx prisma migrate dev
+```
+
+#### 3. Seed the database with sample data:
+```
+npx prisma db seed
+```
+Tip: Ensure that you have a valid seed file defined in `prisma/seed.ts` or `prisma/seed.js`.
+If not set up, seeding will fail. See Prisma docs: https://www.prisma.io/docs/guides/database/seed-database
+```
+npx prisma db seed
+```
+### CODE LINTING AND FORMATTING
+
+Run ESLint to check the codebase for errors and style issues.
+This helps maintain code quality and consistency.
+```
+npm run lint
+```
+
+### STARTING THE DEVELOPMENT SERVER
+
+This command runs the Next.js development server.
+By default, it starts at `http://localhost:3000`
+Open your browser and go to that URL to view the app.
+```
+npm run dev
+```
+
+
+### TESTING THE APPLICATION (Manual Verification)
+
+To test if the app works:
+1. Open a terminal.
+2. Run the development server with `npm run dev`.
+3. Open your browser and go to:
+http://localhost:3000
+4. Navigate through the app and verify the landing page and features are loading properly.
+
+## Community Feedback
 
 ## Use Cases
 
